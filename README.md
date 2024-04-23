@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+TECH : 
+REACT - CRA
+Tailwind CSS
+React Auth KIT
+Material UI
+React Router DOM
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
